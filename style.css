@@ -1,0 +1,26 @@
+.header {
+	background-color: blue;
+	color: white;
+	font-size: 36;
+	padding: 30px;
+}
+.left {
+	background-color: grey;
+}
+.box {
+	padding: 50px 30px;
+	margin: 10px;
+	background-color: black;
+	color: white;
+	float: left;
+}
+.right {
+	background-color: lightgrey;
+}
+.center {
+	background-color: yellow;
+
+}
+.btnn {
+	margin-bottom: 20px;
+}
