@@ -3,6 +3,7 @@
 	color: white;
 	font-size: 36;
 	padding: 30px;
+	font-family: 'Baloo Bhaijaan', cursive;
 }
 .left {
 	background-color: grey;
@@ -13,6 +14,7 @@
 	background-color: black;
 	color: white;
 	float: left;
+	font-family: 'Baloo Tammudu', cursive;
 }
 .right {
 	background-color: lightgrey;
@@ -23,4 +25,25 @@
 }
 .btnn {
 	margin-bottom: 20px;
+}
+.home {
+	text-decoration: none;
+	cursor: pointer;
+
+}
+.home:hover {
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.portfolio {
+	text-decoration: none;
+	cursor: pointer;
+}
+.portfolio:hover {
+	background-color: black;
+	color: white;
+	border: 1px solid white;
 }
