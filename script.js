@@ -7,7 +7,6 @@ function go() {
 function back() {
 	clear();
 	if (!skaicius) {
-		return;
 	}	else  if (skaicius > 1) {
 		skaicius--;
 	}	else {
@@ -18,7 +17,6 @@ function back() {
 function next() {
 	clear();
 	if (!skaicius) {
-		return;
 	}	else if (skaicius < 4) {
 		skaicius++;
 	}	else {	
