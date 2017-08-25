@@ -29,18 +29,17 @@
 .home {
 	text-decoration: none;
 	cursor: pointer;
-
+	padding-left: 20px;
 }
 .home:hover {
 	background-color: black;
 	color: white;
 	border: 1px solid white;
-	padding-top: 5px;
-	padding-bottom: 5px;
 }
 .portfolio {
 	text-decoration: none;
 	cursor: pointer;
+	padding-left: 20px;
 }
 .portfolio:hover {
 	background-color: black;
